@@ -1,0 +1,1 @@
+<span class="footer_right"><a class="a_footer" target="_blank" href="https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=4780236">contact me</a></span>

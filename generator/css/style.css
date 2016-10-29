@@ -1,0 +1,167 @@
+body {
+	background: url("../images/bg.jpg") repeat scroll left top #ffffff;
+	height: 100%;
+}
+
+html {
+	height: 100%;
+}
+
+.outer {
+	height: 100%;
+    width: 100%;
+    display: table;
+}
+
+span.tooltip {
+	font-family: 'Ubuntu';
+	text-align: center;
+	line-height:120%;
+	display: block;
+}
+
+#web_body {
+	
+	display: table-cell;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+	
+	font-weight: 500;
+	font-family: 'Ubuntu';
+	
+	margin-right: auto;
+	margin-left: auto;
+	
+	text-align: center;
+}
+
+#div_form {
+	border-style: none;
+	border-radius: 20px;
+	background-color: rgba(0, 0, 0, 0.2);
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	
+	padding:15px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+img.hd {
+	width: 100%;
+	max-width:1354px;
+	height: auto;
+}
+
+img.sd {
+	width: 100%;
+	max-width:677px;
+	height: auto;
+}
+
+#div_form > div {
+	max-width:100%;
+}
+
+.errors p {
+	color: #9f0000;
+	font-size: 120%;
+}
+
+input[type="text"] {	
+	width: 300px;
+}
+
+#title_span {
+	font-family: 'Indie Flower';
+	font-size: 350%;
+	font-weight: 800;
+}
+
+#title_span, #formTable1, #formTable2, #formTable3 {
+	display: inline-block;
+	margin-left: 10	px;
+	margin-right: 10px;
+}
+
+#formTable1 {
+	margin-right: -10px;
+}
+
+#formTable1 td {
+	padding: 5px;
+}
+
+#formTable2 td {
+	padding-left: 14px;
+}
+
+#formTable3 td {
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.color_picker {
+	width: 100%;
+	max-width: 100px;
+	height: 40px;
+}
+
+.results_1 {
+	font-size: 130%;
+}
+
+.footer_right {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	font-family: 'Indie Flower';
+	margin: 5px;
+	font-size: 130%;
+}
+
+.footer_left {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	font-family: 'Indie Flower';
+	margin: 5px;
+	font-size: 110%;
+}
+
+.a_footer {
+	color: black;
+	text-decoration: none;
+}
+
+#formTable1 td:nth-child(2n+1) {
+	text-align: right;
+}
+
+#formTable1 td:nth-child(2n) {
+	text-align: left;
+}
+
+#formTable3 {
+	table-layout: fixed;
+}
+
+td.t3d1 {
+	width: 20%;
+}
+
+td.t3d2 {
+	width: 15%;
+}
+
+#font {
+	width:100%;
+	max-width: 800px;
+	height: 70px;
+}
+
+#colorTheme {
+	height: 36px;
+}
