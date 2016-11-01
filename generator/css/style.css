@@ -80,6 +80,11 @@ input[type="text"] {
 	font-weight: 800;
 }
 
+#github {
+	font-family: 'Indie Flower';
+	font-size: 150%;
+}
+
 #title_span, #formTable1, #formTable2, #formTable3 {
 	display: inline-block;
 	margin-left: 10	px;

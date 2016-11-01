@@ -51,6 +51,8 @@
     	<div id="web_body">
     	   <div id="title">
     	       <span id="title_span">osu! healthbar generator</span>
+			   <br>
+			   <span id="github">Now available on <a target="_blank" href="https://github.com/agubelu/osu-online-healthbar-generator">GitHub</a></span>
     	   </div>
     		
     		<div id="div_form">
